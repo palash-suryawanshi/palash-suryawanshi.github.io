@@ -4,10 +4,10 @@
 Answer: **NYC Taxi Data** <br/>
 [https://chriswhong.github.io/nyctaxi/] <br/>
 
-Potential applications and values: 
-1) Can predict the cab driver details in the pick hour according to the data.
-2) Can give reviews to the user according to the travelling data.
-3) The data set tells the start point and end point of the journey. With the help of this Uber/Lyft like companies can predict where to set up their stops accordingly. 
+Potential applications and values: <br/>
+1) Can predict the cab driver details in the pick hour according to the data. <br/>
+2) Can give reviews to the user according to the travelling data. <br/>
+3) The data set tells the start point and end point of the journey. With the help of this Uber/Lyft like companies can predict where to set up their stops accordingly. <br/> 
 4) With the help of this data we can predict how stressful and hectic drivers life would have been day in and out. The authority can do something to work on this issue with the help of this data. Like, installing some relaxing posts.
 
 **Q) Introduce ONE selected “free-data-science book” with its URL and author/institute information. Explain briefly why you are interested in this book.** <br/>
